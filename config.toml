@@ -1,0 +1,16 @@
+baseURL = "https://radekm.cz/blog/"
+languageCode = "en-us"
+title = "Radek's blog"
+theme = "xmin"
+
+[menu]
+[[menu.main]]
+  identifier = "home"
+  name = "Home"
+  url = ""
+  weight = 10
+[[menu.main]]
+  identifier = "tags"
+  name = "Tags"
+  url = "/tags/"
+  weight = 20
